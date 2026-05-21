@@ -1,7 +1,74 @@
-<footer class="footer">
-            <div class="d-sm-flex justify-content-center justify-content-sm-between">
-              <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © bootstrapdash.com 2020</span>
-              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"> Free <a href="https://www.bootstrapdash.com/bootstrap-admin-template/" target="_blank">Bootstrap admin templates</a> from Bootstrapdash.com</span>
+
+<footer class="footer-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="widget mb-3">
+              <h3>News</h3>
+              <ul class="list-unstyled links">
+                <li><a href="#">All</a></li>
+                <li><a href="#">Club News</a></li>
+                <li><a href="#">Media Center</a></li>
+                <li><a href="#">Video</a></li>
+                <li><a href="#">RSS</a></li>
+              </ul>
             </div>
-          </footer>
-         
+          </div>
+          <div class="col-lg-3">
+            <div class="widget mb-3">
+              <h3>Tickets</h3>
+              <ul class="list-unstyled links">
+                <li><a href="#">Online Ticket</a></li>
+                <li><a href="#">Payment and Prices</a></li>
+                <li><a href="#">Contact &amp; Booking</a></li>
+                <li><a href="#">Tickets</a></li>
+                <li><a href="#">Coupon</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="widget mb-3">
+              <h3>Matches</h3>
+              <ul class="list-unstyled links">
+                <li><a href="#">Standings</a></li>
+                <li><a href="#">World Cup</a></li>
+                <li><a href="#">La Lega</a></li>
+                <li><a href="#">Hyper Cup</a></li>
+                <li><a href="#">World League</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-lg-3">
+            <div class="widget mb-3">
+              <h3>Social</h3>
+              <ul class="list-unstyled links">
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Instagram</a></li>
+                <li><a href="#">Youtube</a></li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row text-center">
+          <div class="col-md-12">
+            <div class=" pt-5">
+              <p>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                Copyright &copy;
+                <script>
+                  document.write(new Date().getFullYear());
+                </script> All rights reserved | Join a community where passion meets performance, and elevate your game with expert tips, gear reviews, and  <i class="icon-heart"
+                  aria-hidden="true"></i> by <a href="index.php" target="_blank">inspiring stories that fuel your journey.</a>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </footer>
+
